@@ -1,0 +1,1 @@
+﻿Chuyển mảng 2 chiều về mảng 1 chiều và ngược lại
